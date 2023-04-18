@@ -12,6 +12,44 @@
 - **People & Culture, Soft Skills, Future of work, Innovation, Side projects**
 - Web, JS, HTML5 & UX
 
+
+## Table of contents
+- [Mercredi 12 avril 2023](#mercredi-12-avril-2023)
+
+    - [08h00-09h30 : Registration and breakfast](#08h00-09h30--registration-and-breakfast8h00-09h30)
+    - [09h30-12h30 (Amphi Bleu) : Une Architecture GitOps from scratch : Gitlab, Ansible, Terraform, Kubernetes et AWS](#09h30-12h30-amphi-bleu--une-architecture-gitops-from-scratch--gitlab-ansible-terraform-kubernetes-et-aws)
+    - [12h30-13h30 : Repas](#12h30-13h30--repas)
+    - [13h30-16h30 (Amphi bleu) : Kubernetes, dépassionné et pour les ultra débutants](#13h30-16h30-amphi-bleu--kubernetes-dépassionné-et-pour-les-ultra-débutants)
+    - [16h30-17h00 : Pause](#16h30-17h00--pause)
+    - [17h00-17h30 (Neuilly 253) : Comment être bien onboardée en tant que développeuse junior reconvertie ??](#17h00-17h30-neuilly-253--comment-être-bien-onboardée-en-tant-que-développeuse-junior-reconvertie)
+    - [17h45-18h15 (Paris 241) : Pourquoi quitter la tech](#17h45-18h15-paris-241--pourquoi-quitter-la-tech)
+    - [18h30-19h00 (Paris 242 AB) : De la première ligne de code au succès : REX d’un projet open source](#18h30-19h00-paris-242-ab--de-la-première-ligne-de-code-au-succès--rex-dun-projet-open-source)
+- [Jeudi 13 avril 2023](#jeudi-13-avril-2023)
+    - [09h00-09h20 (amphi bleu): Et si le digital permettait de mieux vivre et plus longtemps ?](#09h00-09h20-amphi-bleu-et-si-le-digital-permettait-de-mieux-vivre-et-plus-longtemps)
+    - [09h25-09h45 (amphi bleu): La tech au secours de la planète ?](#09h25-09h45-amphi-bleu-la-tech-au-secours-de-la-planète)
+    - [09h50-10H10 (amphi bleu): Definition of Done : une notion évolutive en start-up santé](#09h50-10h10-amphi-bleu-definition-of-done--une-notion-évolutive-en-start-up-santé)
+    - [10h15-10h40 : Pause](#10h15-10h40--pause)
+    - [10h45-11h30 (maillot): Rencontrer les autres: les outils au service de la prise de parole](#10h45-11h30-maillot-rencontrer-les-autres-les-outils-au-service-de-la-prise-de-parole)
+    - [11h45-12h30 (253): Vous voulez sauver la planète ? Utilisez DailyClean, une application open source réalisée avec Quarkus.](#11h45-12h30-253-vous-voulez-sauver-la-planète--utilisez-dailyclean-une-application-open-source-réalisée-avec-quarkus)
+    - [12h30-13h30 : Repas + Talk Avoir un journal de codeur (252 AB)](#12h30-13h30--repas--talk-avoir-un-journal-de-codeur-252-ab)
+    - [13h30-14h15 (amphi bleu): Loi de Conway : lorsque les bonnes pratiques ne suffisent pas :warning: A REVOIR / COMPLEXE :warning:](#13h30-14h15-amphi-bleu-loi-de-conway--lorsque-les-bonnes-pratiques-ne-suffisent-pas-⚠️-a-revoir--complexe-⚠️)
+    - [14h30-15h15 252 AB: Passer de Dallas à Happy Days: conseils pour hacker positivement sa vie](#14h30-15h15-252-ab-passer-de-dallas-à-happy-days-conseils-pour-hacker-positivement-sa-vie)
+    - [15h30-16h15 (maillot): DevOps is Dead? Au fait, c’est quoi le DevOps? Et pourquoi faut-il le sécuriser?](#15h30-16h15-maillot-devops-is-dead-au-fait-cest-quoi-le-devops-et-pourquoi-faut-il-le-sécuriser)
+    - [16h15-16h45 : Pause](#16h15-16h45--pause)
+    - [16h45-17h30 (242 AB): Comment être condamné par la CNIL](#16h45-17h30-242-ab-comment-être-condamné-par-la-cnil)
+    - [17h45-18h15 (amphi bleu) : Les post-mortems ou comment sortir heureux d’un carnage](#17h45-18h15-amphi-bleu--les-post-mortems-ou-comment-sortir-heureux-dun-carnage)
+- [Vendredi 14 avril 2023](#vendredi-14-avril-2023)
+    - [09h00-09h20 (amphi bleu): Soyons optimiste](#09h00-09h20-amphi-bleu-soyons-optimiste)
+    - [09h25-09h45 (amphi bleu): Géopolitique de la data](#09h25-09h45-amphi-bleu-géopolitique-de-la-data)
+    - [09h50-10h10 (amphi bleu): Briser le plafond de glace](#09h50-10h10-amphi-bleu-briser-le-plafond-de-glace)
+    - [10h45-11h30 (amphi bleu): Clean as You Code your projects](#10h45-11h30-amphi-bleu-clean-as-you-code-your-projects)
+    - [11h45-12h30 (amphi bleu): SpringBoot 3 - :warning: A REVOIR :warning:](#11h45-12h30-amphi-bleu-springboot-3---⚠️-a-revoir-⚠️)
+    - [12h30-13h30 : REPAS](#12h30-13h30--repas-1)
+    - [13h00-13h15 (252 AB): Comment garder son job, quoi qu'il en coûte](#13h00-13h15-252-ab-comment-garder-son-job-quoi-quil-en-coûte)
+    - [13h30-14h45 (amphi bleu): Les tests de charge sans être à côté de la plaque](#13h30-14h45-amphi-bleu-les-tests-de-charge-sans-être-à-côté-de-la-plaque)
+    - [14h30-15h15 (242 AB): Des millions d’évènements par minute pendant une Coupe du Monde, même pas peur !](#14h30-15h15-242-ab-des-millions-dévènements-par-minute-pendant-une-coupe-du-monde-même-pas-peur)
+    - [15h30-16h15 (amphi bleu): Voyage au centre de la Veille : Apprendre en continu avec sa veille technologique](#15h30-16h15-amphi-bleu-voyage-au-centre-de-la-veille--apprendre-en-continu-avec-sa-veille-technologique)
+
 ## Mercredi 12 avril 2023
 
 ### 08h00-09h30 : Registration and breakfast
